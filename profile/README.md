@@ -34,6 +34,10 @@
 |     [최서윤](http://yuni124.creatorlink.net/)      |          Design           |    em4715@naver.com    |
 <br>
 
+## 🛠 북-잉 아키텍처
+![아키텍처](https://blog.kakaocdn.net/dn/1yDmG/btrDOSWYdv4/zwJdDEWrGSaOf9mYRBnKZ0/img.png)
+<br>
+
 ## 🎯 북-잉 트러블슈팅
 <details>
 <summary>1. 스터디 목록 조회</summary>
